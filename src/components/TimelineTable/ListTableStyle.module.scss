@@ -1,0 +1,79 @@
+.componentList {
+    display: flex;
+    padding-top: 15px;
+    flex-wrap: wrap;
+    
+    .listitem {
+        width: 210px;
+        height: 200px;
+        border: 1px solid #717171;
+        text-align: center;
+        vertical-align: middle;
+        align-items: center;
+        border-radius: 10px;
+        position: relative;
+        margin-left:15px;
+        background: #f4f4f4;
+        p{
+            width: 75px;
+            height: 50px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -45px 0 0 -35px; /* apply negative top and left margins to truly center the element */
+            word-break: break-all;
+            font-size: 65px;
+            font-weight: 500;        
+          }
+         > span{
+          font-weight: normal;
+          margin-top: 10px;
+          display: block;
+         }
+         .iconBtn{
+          position: absolute;
+          top: 150px;
+          left: 165px;
+         }
+      }
+  }
+  
+  .pagination {
+    margin: 15px auto;
+    display: flex;
+    list-style: none;
+    outline: none;
+  }
+
+  .pagination > .active > a {
+    background-color: #47ccde;
+    border-color: #47ccde;
+    color: #fff;
+  }
+  .pagination > li > a {
+    border: 1px solid #47ccde;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+  }
+  .pagination > .active > a,
+  .pagination > .active > span,
+  .pagination > .active > a:hover,
+  .pagination > .active > span:hover,
+  .pagination > .active > a:focus,
+  .pagination > .active > span:focus {
+    background-color: #47ccde;
+    border-color: #47ccde;
+    outline: none;
+  }
+  .pagination > li > a,
+  .pagination > li > span {
+    color: #47ccde;
+  }
+  .pagination > li:first-child > a,
+  .pagination > li:first-child > span,
+  .pagination > li:last-child > a,
+  .pagination > li:last-child > span {
+    border-radius: unset;
+  }
+  

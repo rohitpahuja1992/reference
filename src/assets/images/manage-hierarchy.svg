@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<g>
+		<path d="M479.944,111.72c-0.032-0.856-0.144-1.712-0.448-2.536l-24-64C454.32,42.072,451.336,40,448,40s-6.32,2.072-7.496,5.184    l-24,64c-0.304,0.824-0.424,1.68-0.448,2.536c0,0.096-0.056,0.184-0.056,0.28v280v30.064c0,8.432,3.416,16.672,9.376,22.624    c6.24,6.232,14.432,9.352,22.624,9.352c8.192,0,16.384-3.12,22.624-9.352c5.96-5.952,9.376-14.192,9.376-22.624V392V112    C480,111.904,479.944,111.816,479.944,111.72z M448,70.784L460.456,104h-24.912L448,70.784z M464,422.064    c0,4.208-1.704,8.336-4.688,11.312c-6.232,6.232-16.392,6.232-22.624,0c-2.984-2.976-4.688-7.104-4.688-11.312V400h32V422.064z     M464,384h-32V120h32V384z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M392,0H8C3.584,0,0,3.576,0,8v384c0,0.176,0.088,0.328,0.104,0.504c0.04,0.704,0.176,1.384,0.408,2.056    c0.088,0.256,0.152,0.512,0.272,0.76c0.392,0.848,0.88,1.656,1.568,2.344l80,80c0.752,0.752,1.64,1.336,2.608,1.736    c0.96,0.392,1.992,0.6,3.04,0.6h304c4.416,0,8-3.576,8-8V8C400,3.576,396.416,0,392,0z M80,452.688L27.312,400H80V452.688z     M384,464H96v-72c0-4.424-3.584-8-8-8H16V16h368V464z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M264,112h96c4.416,0,8-3.576,8-8V40c0-4.424-3.584-8-8-8h-96c-4.416,0-8,3.576-8,8v24h-40c-4.416,0-8,3.576-8,8v96h-32    v-24c0-4.424-3.584-8-8-8H40c-4.416,0-8,3.576-8,8v64v64v64c0,4.424,3.584,8,8,8h128c4.416,0,8-3.576,8-8v-24h32v96    c0,4.424,3.584,8,8,8h40v24c0,4.424,3.584,8,8,8h96c4.416,0,8-3.576,8-8v-64c0-4.424-3.584-8-8-8h-96c-4.416,0-8,3.576-8,8v24h-32    V248h32v24c0,4.424,3.584,8,8,8h96c4.416,0,8-3.576,8-8v-64c0-4.424-3.584-8-8-8h-96c-4.416,0-8,3.576-8,8v24h-32V80h32v24    C256,108.424,259.584,112,264,112z M272,48h80v48h-80V48z M160,328H48v-48h112V328z M160,264H48v-48h112V264z M160,200H48v-48h112    V200z M208,296h-32v-24v-24h32V296z M208,232h-32v-24v-24h32V232z M272,384h80v48h-80V384z M272,216h80v48h-80V216z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="64" y="168" width="48" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="128" y="168" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="64" y="232" width="48" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="128" y="232" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="64" y="296" width="48" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="128" y="296" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="288" y="64" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="320" y="64" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="288" y="232" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="320" y="232" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="288" y="400" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="320" y="400" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/>
+	</g>
+</g></g> </svg>

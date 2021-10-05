@@ -1,0 +1,122 @@
+.loginContainer {
+  height: 100vh;
+  width: 100%;
+  background: url("../../assets/images/login-bg-LT.png") left top no-repeat,
+    url("../../assets/images/login-bg-RT.png") right top no-repeat,
+    url("../../assets/images/login-bg-BR.png") right bottom no-repeat,
+    url("../../assets/images/login-bg-BL.png") left bottom no-repeat, #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginBox {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.pageHeading {
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 26px;
+  font-weight: 300;
+}
+
+.field {
+  padding-bottom: 10px;
+}
+
+.loginLogo {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.bottomAction {
+  display: flex;
+  align-items: center;
+  margin-top: -15px;
+  padding-bottom: 15px;
+  font-size: 14px;
+}
+
+.remberMe {
+  flex: 1;
+}
+
+.formControlLabel .MuiTypography-root {
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 1280px) {
+  .loginContainer {
+    background-size: 280px, 240px, 240px, 200px;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .loginContainer {
+    background-size: 230px, 220px, 200px, 190px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .loginContainer {
+    background-size: 190px, 180px, 180px, 160px;
+  }
+
+  .loginContainer {
+    // align-items: start;
+    overflow: auto;
+  }
+
+  .loginBox {
+    width: 320px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .loginLogo img {
+    width: 170px;
+  }
+
+  .pageHeading {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .loginContainer {
+    background-size: 150px, 120px, 130px, 130px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .loginContainer {
+    background-size: 130px, 100px, 110px, 110px;
+  }
+
+  .loginBox {
+    width: 260px;
+  }
+
+  .loginLogo img {
+    width: 150px;
+  }
+
+  .pageHeading {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .loginContainer {
+    background-size: 110px, 90px, 90px, 90px;
+  }
+}
+
+@media only screen and (max-height: 500px) {
+  .loginContainer {
+    align-items: start;
+  }
+}
